@@ -1,0 +1,3 @@
+D:/TC2038/OrderAlphabetically/cmake-build-debug/CMakeFiles/OrderAlphabetically.dir
+D:/TC2038/OrderAlphabetically/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/TC2038/OrderAlphabetically/cmake-build-debug/CMakeFiles/rebuild_cache.dir

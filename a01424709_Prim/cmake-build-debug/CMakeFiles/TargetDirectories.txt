@@ -1,0 +1,3 @@
+D:/TC2038/a01424709_Prim/cmake-build-debug/CMakeFiles/a01424709_Prim.dir
+D:/TC2038/a01424709_Prim/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/TC2038/a01424709_Prim/cmake-build-debug/CMakeFiles/rebuild_cache.dir

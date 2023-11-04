@@ -1,0 +1,3 @@
+D:/TC2038/Integradora2/cmake-build-debug/CMakeFiles/Integradora2.dir
+D:/TC2038/Integradora2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/TC2038/Integradora2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
